@@ -1,0 +1,61 @@
+@import "tailwindcss";
+
+@variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-background: #F0F4F8;
+  --color-secondary: #FFFFFF;
+  --color-accent: #2563EB;
+  --color-highlight: #1E293B;
+  --color-secondary-text: #64748B;
+
+  --color-dark-background: #0A0F1E;
+  --color-dark-secondary: #111827;
+  --color-dark-accent: #3B82F6;
+  --color-dark-highlight: #CBD5E1;
+
+  --font-sans: 'Inter', sans-serif;
+  --font-mono: 'Roboto Mono', monospace;
+
+  --shadow-neumorphic-light: 5px 5px 10px #d1d9e6, -5px -5px 10px #ffffff;
+  --shadow-neumorphic-dark: 5px 5px 10px #05080f, -5px -5px 10px #0f162d;
+  --shadow-neumorphic-inset-light: inset 5px 5px 10px #d1d9e6, inset -5px -5px 10px #ffffff;
+  --shadow-neumorphic-inset-dark: inset 5px 5px 10px #05080f, inset -5px -5px 10px #0f162d;
+}
+
+/* Prevent horizontal scrollbar */
+body {
+  overflow-x: hidden;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #F0F4F8;
+}
+
+html.dark ::-webkit-scrollbar-track {
+  background: #0A0F1E;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #c1c8d1;
+  border-radius: 8px;
+  border: 2px solid #F0F4F8;
+}
+
+html.dark ::-webkit-scrollbar-thumb {
+  background: #111827;
+  border: 2px solid #0A0F1E;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #9ca3af;
+}
+
+html.dark ::-webkit-scrollbar-thumb:hover {
+  background: #3B82F6;
+}
