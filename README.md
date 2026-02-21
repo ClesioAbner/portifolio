@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Portfólio Moderno e Animado - Renato Pedrosa Leite
 
@@ -104,3 +105,7 @@ Para executar este projeto em sua máquina, siga os passos abaixo:
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+=======
+# portifolio
+Este portfólio apresenta meus projetos e habilidades como desenvolvedor de software, com foco em desenvolvimento web moderno. Aqui você encontrará trabalhos realizados utilizando JavaScript, TypeScript, React, integração de APIs e boas práticas de desenvolvimento, além de exemplos de interfaces responsivas e funcionais.
+>>>>>>> ad2e42a6eacbb0da8aea87c3a006380db70659dd
