@@ -13,3 +13,8 @@ O objetivo é demonstrar minha capacidade de criar soluções digitais **eficien
 ## 📄 Licença
 
 Este projeto está sob a licença MIT.
+<img width="1920" height="1080" alt="Captura de Ecrã (71)" src="https://github.com/user-attachments/assets/c7daafea-fd51-4f72-9d68-a5924ea26857" />
+<img width="1920" height="1080" alt="Captura de Ecrã (70)" src="https://github.com/user-attachments/assets/4bb9eb69-29e5-4fa1-923a-d568e3a49f20" />
+
+o link para ver o Portifolio
+https://portifolioeclesio.netlify.app/
