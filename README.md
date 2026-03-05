@@ -7,7 +7,6 @@ O objetivo é demonstrar minha capacidade de criar soluções digitais **eficien
 ## 🚀 Tecnologias Utilizadas
 
 - **Frontend:** React, TypeScript, HTML5, CSS3, Tailwind CSS  
-- **Backe
 - **Extras:** Framer Motion para animações, design responsivo e temas claro/escuro
 
 ## 📄 Licença
